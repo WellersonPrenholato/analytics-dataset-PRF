@@ -1,2 +1,5 @@
-1º - Filter/Filter_ES.ipynb (Seleciona atributos do estado do Espírito Santo)
-2º - 
+Ordem de execução dos algoritmos do projeto:
+1º - Filter/Filter_ES.ipynb (Seleciona atributos do estado do Espírito Santo e remove algumas colunas desnecessárias.)
+2º - Limpeza/Organize_dataset.ipynb (Realiza alguns tratamentos em cima da base de dados)
+3º - Filter/Filter_Data.ipynb (Filtra baseado em um intervalo de datas)
+4º - Limpeza/Organize_file_apriori.ipynb (Algoritmo para organização dos dados, o nome das colunas se juntam com a informação da célula.)
